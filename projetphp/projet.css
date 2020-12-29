@@ -1,0 +1,48 @@
+body
+{
+    background-color:#E71837;
+	font-family:arial;
+}
+
+.article
+{
+	background-color:white;
+}
+
+.bienvenue
+{
+	background-color:black;
+	color:white;
+	text-align:center;
+}
+.connexion
+{
+	background-color:#F9DC5C;
+	text-align:right;
+	text-decoration:none;
+	color:black;
+}
+.creerarticle
+{
+	background-color:#F9DC5C;
+	text-align:left;
+	text-decoration:none;
+	color:black;
+}
+.authen
+{
+	text-align:center;
+	background-color:#F9DC5C;
+}
+.crea
+{
+	text-align:center;
+	background-color:#F9DC5C;
+}
+.creer
+{
+	text-align:center;
+	background-color:#F9DC5C;
+}
+
+	
